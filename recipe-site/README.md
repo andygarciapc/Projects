@@ -1,3 +1,3 @@
 #Recipe Site
 
-Simple site to show people a few minecraft recipes.
+Simple site to show people a couple video-game recipes.
