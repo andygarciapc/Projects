@@ -1,0 +1,17 @@
+*{
+    background-color: #00000F;
+    color: #b03060;
+}
+
+img{
+    background: grey;
+}
+
+h1{
+    text-align: center;
+}
+
+#returnIndex
+{
+    text-align: right;
+}
