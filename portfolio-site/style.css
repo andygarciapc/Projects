@@ -2,19 +2,42 @@
 
 body{
     display:flex;
+    height: 100vh;
     flex-direction: column;
-    flex-grow: 1;
     justify-content: space-between;
+    background-color: #1F2937;
+    color: white;
+    border: 1px solid red;
 }
 
 #header{
     display: flex;
     justify-content: space-between;
+}
+
+.headertitle{
     font-size: 32px;
+}
+
+
+#header .links{
+    padding: 8px;
+    text-decoration: none;
+}
+
+.links a{
+    color: white;
+}
+
+#sidebar{
+    display:flex;
+    flex-direction: column;
+    width:fit-content;
+    height:100vh;
 }
 
 
 
 #footer{
-    background-color: #1F2937;
+
 }
