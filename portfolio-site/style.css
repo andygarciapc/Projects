@@ -1,0 +1,20 @@
+*{border:1px dashed grey;}
+
+body{
+    display:flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+}
+
+
+
+#footer{
+    background-color: #1F2937;
+}
