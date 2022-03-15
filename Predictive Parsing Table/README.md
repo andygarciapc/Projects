@@ -1,7 +1,7 @@
 #Predictive Parsing Table
 
 This is a predictive parsing table class/program that utilizes hash functions to keep tabs on a characters index position in a 3 dimensional array.
-The languages used in both sets will be listed below(; denotes end of language set):
+The languages used in both sets will be listed below(; denotes end of set):
 
 Language 1:
 
