@@ -4,6 +4,7 @@ This is a predictive parsing table class/program that utilizes hash functions to
 The languages used in both sets will be listed below:
 
 Language 1:
+
 E🡪 E+T
 E🡪 E-T
 E🡪 T
@@ -14,6 +15,7 @@ F🡪 i
 F🡪 (E)
 
 Language 2:
+
 S🡪 aW        
 W🡪 =E
 E🡪 E+T
