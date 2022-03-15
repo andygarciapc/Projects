@@ -16,7 +16,7 @@ F🡪 (E)
 
 Language 2:
 
-S🡪 aW        
+S🡪 aW
 W🡪 =E
 E🡪 E+T
 E🡪 E- T 
