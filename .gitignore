@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Predictive Parsing Table/.vs/Predictive Parsing Table/v16
+/Predictive Parsing Table/Debug/vc142.pdb
+/Predictive Parsing Table/Debug/vc142.idb
+/Predictive Parsing Table/Debug/Predictive Parsing Table.vcxproj.FileListAbsolute.txt
+/Predictive Parsing Table/Debug/Predictive Parsing Table.pdb
+/Predictive Parsing Table/Debug/Predictive Parsing Table.log
+/Predictive Parsing Table/Debug/Predictive Parsing Table.ilk
+/Predictive Parsing Table/Debug/Predictive Parsing Table.exe.recipe
+/Predictive Parsing Table/Predictive Parsing Table.sln
+/Predictive Parsing Table/Predictive Parsing Table.vcxproj.user
+/Predictive Parsing Table/Predictive Parsing Table.vcxproj.filters
+/Predictive Parsing Table/Predictive Parsing Table.vcxproj
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/link.write.1.tlog
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/link.read.1.tlog
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/link.command.1.tlog
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/CL.write.1.tlog
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/CL.read.1.tlog
+/Predictive Parsing Table/Debug/Predicti.5cc24a3c.tlog/CL.command.1.tlog
+/.vs/Projects/v16/Browse.VC.opendb
+/.vs/Projects/v16/Browse.VC.db-wal
+/.vs/Projects/v16/Browse.VC.db-shm
+/.vs/Projects/v16/Browse.VC.db
