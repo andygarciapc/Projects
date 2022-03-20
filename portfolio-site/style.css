@@ -1,7 +1,9 @@
 *{border:1px dashed grey;}
 
 body{
-    display:flex;
+    display: flex;
+    padding: 0;
+    margin: 0;
     height: 100vh;
     flex-direction: column;
     justify-content: space-between;
@@ -15,29 +17,29 @@ body{
     justify-content: space-between;
 }
 
-.headertitle{
-    font-size: 32px;
+#headertitle{
+
 }
 
-
-#header .links{
-    padding: 8px;
-    text-decoration: none;
+#header-links{
+    flex-grow: 0.1;
+    display: flex;
+    justify-content: space-between;
 }
 
-.links a{
-    color: white;
+#header-links a{
+
+}
+
+#body{
+    flex-grow: 1;
+    display: flex;
 }
 
 #sidebar{
-    display:flex;
-    flex-direction: column;
-    width:fit-content;
-    height:100vh;
+    
 }
 
-
-
 #footer{
-
+    text-align: center;
 }
