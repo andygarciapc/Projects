@@ -1,0 +1,30 @@
+*{
+    background-color: #00000F;
+    color: #b03060;
+    padding: 1px
+}
+
+img{
+    background: grey;
+    width: auto;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.steps
+{
+    display:inline-block;
+    width: auto;
+}
+
+#returnIndex
+{
+    text-align: right;
+}

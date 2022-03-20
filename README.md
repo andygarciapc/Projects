@@ -1,3 +1,6 @@
 # Projects
 
-Just a collection of my projects when experimenting with HTML, CSS, and JavaScript.
+This is a collection of my projects, big and small, when learning to program languages such as:
+
+
+HTML, CSS, C, C++, C#, JavaScript
