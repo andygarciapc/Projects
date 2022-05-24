@@ -1,4 +1,4 @@
-/**{ border: 1px dashed grey;}*/
+*{ border: 1px dashed grey;}
 
 body {
     display: flex;
@@ -21,8 +21,9 @@ body {
 }
 
 .headertitle{
+    flex-grow: 1;
     margin-left: 0.5vw;
-    font-size: 5vh;
+    font-size: 100%;
     font-weight: 700;
 }
 
